@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/originals/36/d8/1e/36d81e8f020c2e3444180f2c18b8e363.gif" alt="Snake animation" />
+<img src="https://i.pinimg.com/originals/0b/af/79/0baf79ba59be86610edc1f810a79f2b7.gif" alt="Snake animation" />
 
 ###
